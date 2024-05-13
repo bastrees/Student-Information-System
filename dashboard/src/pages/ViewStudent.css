@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.halu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

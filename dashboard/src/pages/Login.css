@@ -1,0 +1,25 @@
+.logincard {
+    display: flex;
+    padding: 5rem;
+}
+
+.logincontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.loginform {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.logincardcontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}

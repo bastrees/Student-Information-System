@@ -1,0 +1,31 @@
+.signupcontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ 
+.signupcard {
+    display: flex;
+    padding: 5rem;
+}
+ 
+.signupcardcontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+ 
+.signupform {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+ 
+.buttongroup {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
