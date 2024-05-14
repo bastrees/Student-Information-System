@@ -7,7 +7,7 @@ import ViewUsers from "./pages/ViewUsers";
 import Login from "./pages/Login";
 import SignUp from "./pages/SignUp";
 import ManageStudent from "./pages/ManageStudent";
- 
+
 function App() {
     return (
 <BrowserRouter>
